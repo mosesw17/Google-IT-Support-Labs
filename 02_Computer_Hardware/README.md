@@ -18,3 +18,4 @@
 - Learned how hardware components work together to form a functioning system
 - Understanding differences between memory and storage is crucial for troubleshooting
 - Hands-on focus helped me recognize parts I’ve seen before but never knew by name
+
