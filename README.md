@@ -3,36 +3,35 @@
 This repository documents my journey through the Google IT Support Professional Certificate program.  
 It includes hands-on lab exercises, detailed notes, and reflections for each module, showcasing my technical growth and learning progress.
 
----
-
 ## Repository Structure
 
-- **01_Intro_to_IT/**  
-  - `README.md` → Module overview and key concepts  
-  - `notes.md` → Detailed notes and examples  
-  - `binary_examples.md` → Binary and ASCII exercises
+### 01_Intro_to_IT
+- `README.md`          → Module overview and key concepts
+- `binary_examples.md` → Binary and ASCII exercises
+- `notes.md`           → Detailed notes and examples
 
-- **02_Computer_Hardware/**  
-  - `README.md`  
-  - `notes.md`  
+### 02_Computer_Hardware
+- `README.md`            → Module overview and key concepts of computer hardware
+- `hardware_examples.md` → Example scenarios and exercises
+- `notes.md`             → Detailed notes
+- `project_pc_build.md`  → PC assembly project documentation
 
-- **03_Networking/**  
-  - `README.md`  
-  - `notes.md`  
+### 03_Networking
+- `README.md`
+- `notes.md`
 
-- **04_Operating_Systems/**  
-  - `README.md`  
-  - `notes.md`  
+### 04_Operating_Systems
+- `README.md`
+- `notes.md`
 
-- **05_System_Administration/**  
-  - `README.md`  
-  - `notes.md`  
+### 05_System_Administration
+- `README.md`
+- `notes.md`
 
-- **06_IT_Security/**  
-  - `README.md`  
-  - `notes.md`  
+### 06_IT_Security
+- `README.md`
+- `notes.md`
 
----
 
 ## Purpose
 
