@@ -1,28 +1,34 @@
 # Module 2 Notes: Computer Hardware
 
 ## Key Components
-- **Motherboard**: Main circuit board, holds CPU, RAM, expansion slots, chipset
-- **CPU (Central Processing Unit)**: "Brain" of the computer, processes instructions
-- **RAM (Random Access Memory)**: Temporary, fast storage used by running programs
-- **Storage**: Permanent data storage (HDDs, SSDs, NVMe drives)
-- **Power Supply (PSU)**: Converts electricity into usable power for components
-- **Peripherals**: External devices (keyboard, mouse, printer, etc.)
+- **Motherboard**: Connects all components; contains CPU socket, RAM slots, expansion slots
+- **CPU (Central Processing Unit)**: Executes instructions; brain of the computer
+- **RAM (Random Access Memory)**: Fast, temporary storage used by active programs
+- **Storage**: Permanent memory (HDD, SSD, NVMe)
+- **Power Supply (PSU)**: Converts electricity to usable power for computer components
+- **Peripherals**: External devices like keyboards, monitors, printers
 
 ## Memory Types
-- **DRAM (Dynamic RAM)**: Needs constant refreshing, slower but cheaper
-- **SRAM (Static RAM)**: Faster, used in cache, more expensive
-- **DIMMs (Dual Inline Memory Modules)**: Sticks of RAM that plug into motherboard
+- **DRAM**: Dynamic RAM, requires refreshing, used as main system memory
+- **SRAM**: Static RAM, faster, used in caches
+- **DDR SDRAM**: Faster version of SDRAM, used in modern systems
+- **DIMMs**: Dual Inline Memory Modules (RAM sticks)
 
 ## Chipsets
-- **Northbridge**: Connects CPU to high-speed components (RAM, graphics card)
-- **Southbridge**: Manages slower peripherals (USB, hard drives, I/O)
+- **Northbridge**: Connects CPU to high-speed components (RAM, GPU)
+- **Southbridge**: Manages slower devices (USB, storage, I/O)
 
 ## Storage Types
-- **HDD (Hard Disk Drive)**: Magnetic storage, slower, cheaper
-- **SSD (Solid State Drive)**: Faster, uses flash memory
-- **Flash Drives**: Portable solid-state storage
+- **HDD**: Mechanical drive, uses spinning platters
+- **SSD**: Solid state drive, faster and more reliable
+- **NVMe**: High-speed interface for SSDs
 
-## Labs & Key Learnings
-- Identified CPU sockets, RAM slots, PCIe slots on a motherboard diagram
-- Compared performance differences between HDD and SSD
-- Practiced matching glossary terms with hardware functions
+## Glossary Highlights
+- **BIOS/UEFI**: Firmware that initializes hardware and loads the OS
+- **POST**: Power-On Self Test that checks hardware at startup
+- **Cache**: Fast memory storing frequently accessed data
+- **SATA**: Common interface for hard drives and SSDs
+- **PCI Express**: Interface for graphics cards and expansion cards
+- **Thermal Paste**: Improves heat transfer from CPU to heat sink
+- **Heatsink/Fan**: Dissipates heat from CPU
+- **Standoffs**: Small spacers used to mount the motherboard in the case
