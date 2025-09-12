@@ -13,3 +13,4 @@
 ## Reflections
 - Learned the fundamentals of how computers represent data
 - Understanding binary and encoding is essential for IT support and troubleshooting
+
