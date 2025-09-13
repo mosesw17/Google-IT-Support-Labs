@@ -16,22 +16,22 @@ It includes hands-on lab exercises, detailed notes, and reflections for each mod
 - `notes.md`             → Detailed notes and examples
 - `project_pc_build.md`  → PC assembly project documentation
 
-### 03_Networking
-- `README.md`
-- `notes.md`
+### 03_Operating_Systems
+- `README.md`        → Module overview and key concepts of operating systems
+- `notes.md`         → Detailed notes and glossary terms
+- `os_examples.md`   → Examples of OS commands, logs, and boot processes
 
-### 04_Operating_Systems
-- `README.md`
-- `notes.md`
+### 04_Networking
+- `README.md`        → Module overview and key concepts of networking
+- `notes.md`         → Detailed notes and examples
 
-### 05_System_Administration
-- `README.md`
-- `notes.md`
+### 05_Software
+- `README.md`        → Module overview and key concepts of software
+- `notes.md`         → Detailed notes and examples
 
-### 06_IT_Security
-- `README.md`
-- `notes.md`
-
+### 06_Troubleshooting
+- `README.md`        → Module overview and key concepts of troubleshooting
+- `notes.md`         → Detailed notes and examples
 
 ## Purpose
 
@@ -45,4 +45,6 @@ It includes hands-on lab exercises, detailed notes, and reflections for each mod
 
 1. Click on a module folder (e.g., `01_Intro_to_IT/`) to view its **overview, notes, and examples**.  
 2. Follow the modules in order to see the progression of my learning journey.  
-3. Each module contains a README.md for the overview and notes.md/binary_examples.md for detailed exercises.
+3. Each module contains a README.md for the overview and supporting files for detailed exercises.
+
+.
