@@ -13,3 +13,4 @@ This module covers the fundamentals of operating systems, their components, and 
 - Comparison of Windows, Linux, MacOS, and Chrome OS
 - Booting methods: Hard drive, USB, and CD
 - Running multiple operating systems with virtual machines
+
